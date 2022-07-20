@@ -1,7 +1,9 @@
 # breakout
 
  This game is currently in development
- currently available on desktop computers/laptop
+ 
+ 
+ --currently available on desktop computers/laptop
 
 GAME LINK for testing
 
